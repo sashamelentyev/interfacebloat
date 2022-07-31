@@ -18,5 +18,5 @@ interfacebloat ./...
 
 ## Links
 
-https://en.wikipedia.org/wiki/Interface_bloat
-https://en.wikipedia.org/wiki/Interface_segregation_principle
+- https://en.wikipedia.org/wiki/Interface_bloat
+- https://en.wikipedia.org/wiki/Interface_segregation_principle
