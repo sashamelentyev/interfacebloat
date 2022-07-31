@@ -4,9 +4,11 @@ Interface bloat (anti-pattern, also called fat interface) is when an interface i
 
 A linter that checks length of interface.
 
+The bigger the interface, the weaker the abstraction. (C) Go Proverbs
+
 ## Install
 
-```
+```bash
 go install github.com/sashamelentyev/interfacebloat
 ```
 
